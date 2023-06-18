@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gears",
+        "1": "meatal_1",
+        "2": "meatal_2",
+        "3": "meatal_3",
+        "4": "meatal_4",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

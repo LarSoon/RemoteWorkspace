@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/roof_corner_1",
+  "textures": {
+    "all": "qz:blocks/snow",
+    "particle": "qz:blocks/snow",
+    "0": "qz:blocks/snow",
+    "1": "qz:blocks/metal09"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/wood_table",
+  "textures": {
+    "all": "qz:blocks/wood_tex",
+    "particle": "qz:blocks/wood_tex",
+    "0": "qz:blocks/wood_tex"
+  }
+}

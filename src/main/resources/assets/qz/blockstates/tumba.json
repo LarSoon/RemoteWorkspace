@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/tumba"
+    },
+    "facing=east": {
+      "model": "qz:block/tumba",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/tumba",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/tumba",
+      "y": 270
+    }
+  }
+}

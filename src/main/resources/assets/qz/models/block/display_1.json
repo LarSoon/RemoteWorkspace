@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/display",
+  "textures": {
+    "all": "qz:blocks/display_1",
+    "particle": "qz:blocks/display_1",
+    "0": "qz:blocks/display_1",
+    "missing": "qz:blocks/"
+  }
+}

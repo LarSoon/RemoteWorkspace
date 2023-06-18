@@ -1,0 +1,10 @@
+{
+  "parent": "qz:custom/wood_door_snow_top_closed",
+  "textures": {
+    "all": "qz:blocks/old_wood",
+    "particle": "qz:blocks/old_wood",
+    "0": "qz:blocks/old_wood",
+    "1": "qz:blocks/old_wood_snow1",
+    "2": "qz:blocks/old_wood_snow2"
+  }
+}

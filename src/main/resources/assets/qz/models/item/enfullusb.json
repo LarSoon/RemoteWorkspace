@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/usb_drive_2",
+  "textures": {
+    "0": "qz:blocks/usb_drive",
+    "1": "qz:blocks/status_2",
+    "2": "qz:blocks/connector",
+    "particle": "qz:items/enfullusb"
+  }
+}

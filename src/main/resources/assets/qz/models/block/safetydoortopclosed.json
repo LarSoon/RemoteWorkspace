@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/safeny_top_closed",
+  "textures": {
+    "all": "qz:blocks/safety_upper",
+    "particle": "qz:blocks/safety_upper",
+    "3": "qz:blocks/safety_upper"
+  }
+}

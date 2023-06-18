@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "tab",
+  "definition": {
+    "name": "Interactive Block",
+    "icon": {
+      "value": "CUSTOM:Supply"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "usb_drive",
+        "1": "status_2",
+        "2": "connector"
+      },
+      "name": "default"
+    }
+  }
+}

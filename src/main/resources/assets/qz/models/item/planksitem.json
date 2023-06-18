@@ -1,0 +1,7 @@
+{
+  "parent": "qz:custom/planks",
+  "textures": {
+    "0": "qz:blocks/planks1",
+    "particle": "qz:items/planks1"
+  }
+}

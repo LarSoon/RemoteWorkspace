@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/sellar_lamp",
+  "textures": {
+    "all": "qz:blocks/cellar_lamp",
+    "particle": "qz:blocks/cellar_lamp",
+    "0": "qz:blocks/cellar_lamp"
+  }
+}

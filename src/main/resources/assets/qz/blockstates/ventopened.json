@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/ventopened"
+    },
+    "facing=east": {
+      "model": "qz:block/ventopened",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/ventopened",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/ventopened",
+      "y": 270
+    }
+  }
+}

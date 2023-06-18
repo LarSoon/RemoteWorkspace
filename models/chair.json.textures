@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "chair",
+        "2": "scanners"
+      },
+      "name": "default"
+    }
+  }
+}

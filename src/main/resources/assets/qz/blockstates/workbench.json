@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/workbench"
+    },
+    "facing=east": {
+      "model": "qz:block/workbench",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/workbench",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/workbench",
+      "y": 270
+    }
+  }
+}

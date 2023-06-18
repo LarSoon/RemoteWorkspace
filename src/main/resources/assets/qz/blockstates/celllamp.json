@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/celllamp"
+    },
+    "facing=east": {
+      "model": "qz:block/celllamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/celllamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/celllamp",
+      "y": 270
+    }
+  }
+}

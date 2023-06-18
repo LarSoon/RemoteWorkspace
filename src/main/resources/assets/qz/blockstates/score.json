@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "commands:score"
+    },
+    "facing=north": {
+      "model": "commands:score"
+    },
+    "facing=east": {
+      "model": "commands:score",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "commands:score",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "commands:score",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "commands:score",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "commands:score",
+      "x": 90
+    }
+  }
+}

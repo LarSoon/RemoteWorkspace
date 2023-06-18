@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "medkit_empty",
+        "1": "medkit_full"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/hallway_3",
+    "particle": "qz:blocks/hallway_3"
+  }
+}

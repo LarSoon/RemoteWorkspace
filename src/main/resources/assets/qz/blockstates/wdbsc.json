@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/wdbsc"
+    },
+    "facing=east": {
+      "model": "qz:block/wdbsc",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/wdbsc",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/wdbsc",
+      "y": 270
+    }
+  }
+}

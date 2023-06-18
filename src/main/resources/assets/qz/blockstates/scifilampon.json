@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/scifilampon"
+    },
+    "facing=east": {
+      "model": "qz:block/scifilampon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/scifilampon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/scifilampon",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/wpnbox"
+    },
+    "facing=east": {
+      "model": "qz:block/wpnbox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/wpnbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/wpnbox",
+      "y": 270
+    }
+  }
+}

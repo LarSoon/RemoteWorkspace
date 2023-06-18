@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "display_1",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

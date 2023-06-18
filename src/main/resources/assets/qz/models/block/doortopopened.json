@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/door_top_opened",
+  "textures": {
+    "all": "qz:blocks/door_top",
+    "particle": "qz:blocks/door_top",
+    "0": "qz:blocks/door_top"
+  }
+}

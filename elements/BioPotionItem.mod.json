@@ -1,0 +1,21 @@
+{
+  "_fv": 43,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Bio",
+    "splashName": "Splash Bio",
+    "lingeringName": "Lingering Bio",
+    "arrowName": "Arrow of Bio",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Bio"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

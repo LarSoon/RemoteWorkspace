@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/burnt_wood_fire",
+    "particle": "qz:blocks/burnt_wood_fire"
+  }
+}

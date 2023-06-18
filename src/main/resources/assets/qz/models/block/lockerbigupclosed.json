@@ -1,0 +1,10 @@
+{
+  "parent": "qz:custom/locker_big_door_up_closed",
+  "textures": {
+    "all": "qz:blocks/locker_big",
+    "particle": "qz:blocks/locker_big",
+    "0": "qz:blocks/locker_big",
+    "1": "qz:blocks/lockers",
+    "2": "qz:blocks/locker_window"
+  }
+}

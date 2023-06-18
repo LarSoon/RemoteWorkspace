@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/biohazardbarrel"
+    },
+    "facing=east": {
+      "model": "qz:block/biohazardbarrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/biohazardbarrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/biohazardbarrel",
+      "y": 270
+    }
+  }
+}

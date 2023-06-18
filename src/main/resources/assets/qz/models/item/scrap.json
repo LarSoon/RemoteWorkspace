@@ -1,0 +1,12 @@
+{
+  "parent": "qz:custom/scrap",
+  "textures": {
+    "0": "qz:blocks/gears",
+    "1": "qz:blocks/meatal_1",
+    "2": "qz:blocks/meatal_2",
+    "3": "qz:blocks/meatal_3",
+    "4": "qz:blocks/meatal_4",
+    "missing": "qz:blocks/",
+    "particle": "qz:items/scrap"
+  }
+}

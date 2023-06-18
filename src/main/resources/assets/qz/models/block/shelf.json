@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/shelf",
+  "textures": {
+    "all": "qz:blocks/metal35",
+    "particle": "qz:blocks/metal35",
+    "1": "qz:blocks/metal35",
+    "missing": "qz:blocks/"
+  }
+}

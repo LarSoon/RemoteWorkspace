@@ -1,0 +1,12 @@
+{
+  "parent": "qz:custom/ejector_down",
+  "textures": {
+    "all": "qz:blocks/circuit_board",
+    "particle": "qz:blocks/circuit_board",
+    "0": "qz:blocks/circuit_board",
+    "2": "qz:blocks/ejector_anim",
+    "3": "qz:blocks/main",
+    "4": "qz:blocks/coolant",
+    "missing": "qz:blocks/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "codding",
+        "1": "wires",
+        "3": "pc",
+        "4": "monitor",
+        "5": "mouse_keyboard"
+      },
+      "name": "default"
+    }
+  }
+}

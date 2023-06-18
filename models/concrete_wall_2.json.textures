@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "concrete00",
+        "1": "metal13"
+      },
+      "name": "default"
+    }
+  }
+}

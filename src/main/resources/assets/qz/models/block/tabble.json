@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/table",
+  "textures": {
+    "all": "qz:blocks/metal13",
+    "particle": "qz:blocks/metal13",
+    "0": "qz:blocks/metal13",
+    "missing": "qz:blocks/metal13"
+  }
+}

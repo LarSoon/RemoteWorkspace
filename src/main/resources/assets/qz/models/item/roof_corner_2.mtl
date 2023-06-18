@@ -1,0 +1,20 @@
+newmtl m_8c60c401-27ea-fdfd-9489-8353651d1dcf
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd qz:blocks/snow
+Ns 100.0
+d 1.0
+newmtl m_7f5ebef6-bcc9-88f6-1094-6028ef61de66
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd qz:blocks/metal09snow
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

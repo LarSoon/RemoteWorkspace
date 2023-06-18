@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "barrel_exp2",
+        "2": "barrel_exp1"
+      },
+      "name": "default"
+    }
+  }
+}

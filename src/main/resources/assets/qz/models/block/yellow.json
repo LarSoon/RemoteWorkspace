@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "qz:blocks/yellow",
+    "up": "qz:blocks/yellow",
+    "north": "qz:blocks/yellow",
+    "east": "qz:blocks/yellow",
+    "south": "qz:blocks/yellow",
+    "west": "qz:blocks/yellow",
+    "particle": "qz:blocks/yellow"
+  }
+}

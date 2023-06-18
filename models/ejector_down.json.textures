@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "circuit_board",
+        "2": "ejector_anim",
+        "3": "main",
+        "4": "coolant",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

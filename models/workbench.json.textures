@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "tools_wb",
+        "2": "table_wb",
+        "3": "display_wb",
+        "4": "main_wb",
+        "5": "lamp_wb",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

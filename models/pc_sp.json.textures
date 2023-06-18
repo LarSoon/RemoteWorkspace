@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "display_sp",
+        "1": "wires",
+        "2": "mouse_keyboard",
+        "3": "pc",
+        "4": "monitor"
+      },
+      "name": "default"
+    }
+  }
+}

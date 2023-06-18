@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wood_tex",
+        "1": "jungle_planks",
+        "2": "shkaf_detail_1",
+        "3": "shkaf_detail_2"
+      },
+      "name": "default"
+    }
+  }
+}

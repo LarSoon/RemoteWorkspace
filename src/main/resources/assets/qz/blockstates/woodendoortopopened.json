@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/woodendoortopopened"
+    },
+    "facing=east": {
+      "model": "qz:block/woodendoortopopened",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/woodendoortopopened",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/woodendoortopopened",
+      "y": 270
+    }
+  }
+}

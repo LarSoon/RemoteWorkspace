@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "con_1",
+        "1": "con_2"
+      },
+      "name": "default"
+    }
+  }
+}

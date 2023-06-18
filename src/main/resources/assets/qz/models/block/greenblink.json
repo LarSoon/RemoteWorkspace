@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/green_blink",
+  "textures": {
+    "all": "qz:blocks/greenblink",
+    "particle": "qz:blocks/greenblink",
+    "0": "qz:blocks/greenblink"
+  }
+}

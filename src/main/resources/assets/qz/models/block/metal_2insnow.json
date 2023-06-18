@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "qz:blocks/metal03",
+    "up": "qz:blocks/metal03",
+    "north": "qz:blocks/metal03snow",
+    "east": "qz:blocks/metal03snow",
+    "south": "qz:blocks/metal03snow",
+    "west": "qz:blocks/metal03snow",
+    "particle": "qz:blocks/metal03"
+  }
+}

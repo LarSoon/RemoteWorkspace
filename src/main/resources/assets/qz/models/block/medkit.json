@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/medkit",
+  "textures": {
+    "all": "qz:blocks/medkit",
+    "particle": "qz:blocks/medkit",
+    "0": "qz:blocks/medkit"
+  }
+}

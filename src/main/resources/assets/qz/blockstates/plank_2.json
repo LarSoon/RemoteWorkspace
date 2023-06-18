@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/plank_2"
+    },
+    "facing=east": {
+      "model": "qz:block/plank_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/plank_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/plank_2",
+      "y": 270
+    }
+  }
+}

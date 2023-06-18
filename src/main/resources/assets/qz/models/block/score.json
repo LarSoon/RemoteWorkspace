@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "commands:blocks/main",
+    "up": "commands:blocks/main",
+    "north": "commands:blocks/score",
+    "east": "commands:blocks/main",
+    "south": "commands:blocks/main",
+    "west": "commands:blocks/main",
+    "particle": "commands:blocks/main"
+  }
+}

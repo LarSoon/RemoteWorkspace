@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/safetydoortopclosed"
+    },
+    "facing=east": {
+      "model": "qz:block/safetydoortopclosed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/safetydoortopclosed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/safetydoortopclosed",
+      "y": 270
+    }
+  }
+}

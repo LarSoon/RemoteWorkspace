@@ -1,0 +1,7 @@
+{
+  "parent": "qz:custom/circuit_board",
+  "textures": {
+    "0": "qz:blocks/circuit_board",
+    "particle": "qz:items/circuit_board"
+  }
+}

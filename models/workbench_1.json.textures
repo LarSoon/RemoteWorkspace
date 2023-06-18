@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wb_detail_2",
+        "1": "wb_detail_0",
+        "2": "wb_detail_1",
+        "3": "wb_detail_3",
+        "4": "wb_detail_4"
+      },
+      "name": "default"
+    }
+  }
+}

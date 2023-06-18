@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/wood_shelf",
+  "textures": {
+    "all": "qz:blocks/wood_tex_1",
+    "particle": "qz:blocks/wood_tex_1",
+    "0": "qz:blocks/wood_tex_1"
+  }
+}

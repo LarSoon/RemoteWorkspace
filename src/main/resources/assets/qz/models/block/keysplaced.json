@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/keys",
+  "textures": {
+    "all": "qz:blocks/keys",
+    "particle": "qz:blocks/keys",
+    "0": "qz:blocks/keys"
+  }
+}

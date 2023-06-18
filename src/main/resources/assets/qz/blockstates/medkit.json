@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/medkit"
+    },
+    "facing=east": {
+      "model": "qz:block/medkit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/medkit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/medkit",
+      "y": 270
+    }
+  }
+}

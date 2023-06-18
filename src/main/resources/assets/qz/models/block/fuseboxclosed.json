@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/fusebox",
+  "textures": {
+    "all": "qz:blocks/fusebox",
+    "particle": "qz:blocks/fusebox",
+    "0": "qz:blocks/fusebox",
+    "missing": "qz:blocks/"
+  }
+}

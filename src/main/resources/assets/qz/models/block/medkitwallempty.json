@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/medkit_wall_empty",
+  "textures": {
+    "all": "qz:blocks/medkit_empty",
+    "particle": "qz:blocks/medkit_empty",
+    "0": "qz:blocks/medkit_empty",
+    "1": "qz:blocks/medkit_full"
+  }
+}

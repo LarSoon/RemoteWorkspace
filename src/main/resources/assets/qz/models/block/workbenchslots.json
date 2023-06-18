@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/work_invisible",
+    "particle": "qz:blocks/work_invisible"
+  }
+}

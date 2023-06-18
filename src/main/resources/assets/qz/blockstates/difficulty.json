@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "commands:difficulty"
+    },
+    "facing=north": {
+      "model": "commands:difficulty"
+    },
+    "facing=east": {
+      "model": "commands:difficulty",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "commands:difficulty",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "commands:difficulty",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "commands:difficulty",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "commands:difficulty",
+      "x": 90
+    }
+  }
+}

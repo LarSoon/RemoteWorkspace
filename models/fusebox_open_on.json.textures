@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fusebox",
+        "1": "fusebox2",
+        "2": "indicator_on",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

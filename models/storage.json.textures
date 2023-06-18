@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "storage_text",
+        "1": "storage_2",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/woodstair"
+    },
+    "facing=east": {
+      "model": "qz:block/woodstair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/woodstair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/woodstair",
+      "y": 270
+    }
+  }
+}

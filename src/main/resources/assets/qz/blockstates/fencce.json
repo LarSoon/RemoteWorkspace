@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/fencce"
+    },
+    "facing=east": {
+      "model": "qz:block/fencce",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/fencce",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/fencce",
+      "y": 270
+    }
+  }
+}

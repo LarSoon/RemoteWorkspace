@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "stair_general_1",
+        "3": "stair_wood_1"
+      },
+      "name": "default"
+    }
+  }
+}

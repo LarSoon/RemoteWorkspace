@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/red_blink",
+  "textures": {
+    "all": "qz:blocks/redblink",
+    "particle": "qz:blocks/redblink",
+    "0": "qz:blocks/redblink"
+  }
+}

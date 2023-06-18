@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/papers"
+    },
+    "facing=east": {
+      "model": "qz:block/papers",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/papers",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/papers",
+      "y": 270
+    }
+  }
+}

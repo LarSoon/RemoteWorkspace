@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/rubberduck",
+  "textures": {
+    "all": "qz:blocks/rubber_duck",
+    "particle": "qz:blocks/rubber_duck",
+    "0": "qz:blocks/rubber_duck"
+  }
+}

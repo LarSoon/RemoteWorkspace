@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/tabble"
+    },
+    "facing=east": {
+      "model": "qz:block/tabble",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/tabble",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/tabble",
+      "y": 270
+    }
+  }
+}

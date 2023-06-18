@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/closet"
+    },
+    "facing=east": {
+      "model": "qz:block/closet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/closet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/closet",
+      "y": 270
+    }
+  }
+}

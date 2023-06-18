@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/wood_stair_1",
+  "textures": {
+    "all": "qz:blocks/stair_wood_1",
+    "particle": "qz:blocks/stair_wood_1",
+    "1": "qz:blocks/stair_general_1",
+    "3": "qz:blocks/stair_wood_1"
+  }
+}

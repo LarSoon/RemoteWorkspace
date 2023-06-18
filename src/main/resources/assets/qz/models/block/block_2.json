@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/crete2_flr01",
+    "particle": "qz:blocks/crete2_flr01"
+  }
+}

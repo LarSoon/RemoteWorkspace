@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/scanner_seeker",
+  "textures": {
+    "0": "qz:blocks/scanners",
+    "1": "qz:blocks/radar",
+    "particle": "qz:items/armor_lvl1"
+  }
+}

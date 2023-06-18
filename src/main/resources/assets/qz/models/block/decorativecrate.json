@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "qz:blocks/reinf_sided01",
+    "up": "qz:blocks/reinf_topd01",
+    "north": "qz:blocks/reinf_sided01",
+    "east": "qz:blocks/reinf_sided01",
+    "south": "qz:blocks/reinf_sided01",
+    "west": "qz:blocks/reinf_sided01",
+    "particle": "qz:blocks/reinf_sided01"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/log"
+    },
+    "facing=east": {
+      "model": "qz:block/log",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/log",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/log",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/lockerbigdownopened"
+    },
+    "facing=east": {
+      "model": "qz:block/lockerbigdownopened",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/lockerbigdownopened",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/lockerbigdownopened",
+      "y": 270
+    }
+  }
+}

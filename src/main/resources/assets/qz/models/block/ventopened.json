@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/vent_opened",
+  "textures": {
+    "all": "qz:blocks/vent",
+    "particle": "qz:blocks/vent",
+    "0": "qz:blocks/vent"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "qz:custom/biohazard_barrel",
+  "textures": {
+    "all": "qz:blocks/biohazard_main",
+    "particle": "qz:blocks/biohazard_main",
+    "0": "qz:blocks/biohazard_up",
+    "1": "qz:blocks/biohazard_main",
+    "2": "qz:blocks/biohazard",
+    "missing": "qz:blocks/"
+  }
+}

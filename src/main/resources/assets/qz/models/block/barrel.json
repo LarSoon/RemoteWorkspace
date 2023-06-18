@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/barrel",
+  "textures": {
+    "all": "qz:blocks/barrel_exp2",
+    "particle": "qz:blocks/barrel_exp2",
+    "1": "qz:blocks/barrel_exp2",
+    "2": "qz:blocks/barrel_exp1"
+  }
+}

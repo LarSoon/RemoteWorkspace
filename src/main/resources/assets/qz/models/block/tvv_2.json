@@ -1,0 +1,11 @@
+{
+  "parent": "qz:custom/olt_tv_2",
+  "textures": {
+    "all": "qz:blocks/wood_tex",
+    "particle": "qz:blocks/wood_tex",
+    "1": "qz:blocks/wood_tex",
+    "2": "qz:blocks/old_tv",
+    "3": "qz:blocks/old_tv_noise",
+    "missing": "qz:blocks/"
+  }
+}

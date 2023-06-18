@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "wpn_crate1",
+        "4": "wpn_crate"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/concrettewall_04"
+    },
+    "facing=east": {
+      "model": "qz:block/concrettewall_04",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/concrettewall_04",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/concrettewall_04",
+      "y": 270
+    }
+  }
+}

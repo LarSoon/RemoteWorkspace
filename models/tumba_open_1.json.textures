@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wood_tex",
+        "1": "chair",
+        "2": "scanners"
+      },
+      "name": "default"
+    }
+  }
+}

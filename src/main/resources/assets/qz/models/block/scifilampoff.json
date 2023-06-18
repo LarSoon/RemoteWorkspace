@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/scifi_lamp_off",
+  "textures": {
+    "all": "qz:blocks/light_scifi_lightoff",
+    "particle": "qz:blocks/light_scifi_lightoff",
+    "0": "qz:blocks/light_scifi_lightoff",
+    "2": "qz:blocks/light_scifi_wall"
+  }
+}

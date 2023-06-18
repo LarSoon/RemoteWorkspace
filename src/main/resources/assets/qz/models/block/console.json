@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/console",
+  "textures": {
+    "all": "qz:blocks/con_1",
+    "particle": "qz:blocks/con_1",
+    "0": "qz:blocks/con_1",
+    "1": "qz:blocks/con_2"
+  }
+}

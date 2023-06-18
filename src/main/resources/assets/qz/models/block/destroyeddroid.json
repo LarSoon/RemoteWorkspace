@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/destroyed_droid",
+  "textures": {
+    "all": "qz:blocks/droids",
+    "particle": "qz:blocks/droids",
+    "0": "qz:blocks/droids"
+  }
+}

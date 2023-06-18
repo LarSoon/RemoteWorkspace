@@ -1,0 +1,7 @@
+{
+  "parent": "qz:custom/fuse",
+  "textures": {
+    "0": "qz:blocks/fuse",
+    "particle": "qz:items/wires"
+  }
+}

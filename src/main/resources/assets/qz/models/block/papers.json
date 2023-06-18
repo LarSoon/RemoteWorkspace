@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/papers",
+  "textures": {
+    "all": "qz:blocks/papers",
+    "particle": "qz:blocks/papers",
+    "0": "qz:blocks/papers"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/wood_log",
+  "textures": {
+    "all": "qz:blocks/log_base",
+    "particle": "qz:blocks/log_base",
+    "0": "qz:blocks/log_base",
+    "1": "qz:blocks/log_top"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "papers",
+  "elements": [
+    {
+      "from": [
+        -8,
+        0.1,
+        -8
+      ],
+      "to": [
+        24,
+        0.1,
+        24
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

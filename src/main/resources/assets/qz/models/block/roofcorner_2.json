@@ -1,0 +1,18 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "parts": {
+    "part1": {
+      "loader": "forge:obj",
+      "model": "qz:models/item/roof_corner_2.obj",
+      "ambientToFullbright": true,
+      "textures": {
+        "#m_7f5ebef6-bcc9-88f6-1094-6028ef61de66": "qz:blocks/metal09snow",
+        "#m_8c60c401-27ea-fdfd-9489-8353651d1dcf": "qz:blocks/snow"
+      }
+    }
+  },
+  "textures": {
+    "particle": "qz:blocks/snow"
+  }
+}

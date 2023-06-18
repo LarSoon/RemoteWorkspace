@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/antena_base",
+  "textures": {
+    "all": "qz:blocks/antena",
+    "particle": "qz:blocks/antena",
+    "0": "qz:blocks/antena"
+  }
+}

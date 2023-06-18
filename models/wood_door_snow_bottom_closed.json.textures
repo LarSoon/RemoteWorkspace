@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "old_wood",
+        "1": "old_wood_snow1",
+        "2": "old_wood_snow2"
+      },
+      "name": "default"
+    }
+  }
+}

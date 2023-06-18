@@ -1,0 +1,10 @@
+{
+  "parent": "qz:custom/tumba_open_3",
+  "textures": {
+    "all": "qz:blocks/chair",
+    "particle": "qz:blocks/chair",
+    "0": "qz:blocks/wood_tex",
+    "1": "qz:blocks/chair",
+    "2": "qz:blocks/scanners"
+  }
+}

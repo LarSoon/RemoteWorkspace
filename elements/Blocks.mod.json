@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "tab",
+  "definition": {
+    "name": "Blocks",
+    "icon": {
+      "value": "CUSTOM:Metal1"
+    },
+    "showSearch": false
+  }
+}

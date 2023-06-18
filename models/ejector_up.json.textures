@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "circuit_board",
+        "2": "ejector_anim",
+        "3": "main",
+        "5": "light",
+        "6": "display5",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

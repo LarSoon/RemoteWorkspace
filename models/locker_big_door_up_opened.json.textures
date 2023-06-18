@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "locker_big",
+        "1": "lockers",
+        "2": "locker_window"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "snow_1",
+        "1": "metal09snow",
+        "3": "metal09",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "qz:blocks/ikcratee",
+    "up": "qz:blocks/ikcratef",
+    "north": "qz:blocks/ikcratec",
+    "east": "qz:blocks/ikcratec",
+    "south": "qz:blocks/ikcratec",
+    "west": "qz:blocks/ikcratec",
+    "particle": "qz:blocks/ikcratee"
+  }
+}

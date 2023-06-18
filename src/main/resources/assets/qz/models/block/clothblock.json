@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/cloth",
+  "textures": {
+    "all": "qz:blocks/storage_2",
+    "particle": "qz:blocks/storage_2",
+    "0": "qz:blocks/storage_2"
+  }
+}

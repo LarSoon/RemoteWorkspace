@@ -1,0 +1,215 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #0",
+          "x": 168,
+          "y": 64
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #1",
+          "x": 186,
+          "y": 64
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #2",
+          "x": 204,
+          "y": 64
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #3",
+          "x": 222,
+          "y": 64
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #4",
+          "x": 240,
+          "y": 64
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #5",
+          "x": 168,
+          "y": 82
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 6,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #6",
+          "x": 186,
+          "y": 82
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 7,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #7",
+          "x": 204,
+          "y": 82
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 8,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #8",
+          "x": 222,
+          "y": 82
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 9,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "Equip"
+          },
+          "onStackTransfer": {
+            "name": "Equip"
+          },
+          "name": "Slot #9",
+          "x": 240,
+          "y": 82
+        }
+      }
+    ]
+  }
+}

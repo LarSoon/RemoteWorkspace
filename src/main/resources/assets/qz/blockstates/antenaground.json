@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/antenaground"
+    },
+    "facing=east": {
+      "model": "qz:block/antenaground",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/antenaground",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/antenaground",
+      "y": 270
+    }
+  }
+}

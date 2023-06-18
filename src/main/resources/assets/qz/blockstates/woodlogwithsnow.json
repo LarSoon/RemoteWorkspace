@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/woodlogwithsnow"
+    },
+    "facing=east": {
+      "model": "qz:block/woodlogwithsnow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/woodlogwithsnow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/woodlogwithsnow",
+      "y": 270
+    }
+  }
+}

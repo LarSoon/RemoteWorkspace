@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "light_scifi_lightoff",
+        "1": "light_scifi_lighton",
+        "2": "light_scifi_wall"
+      },
+      "name": "default"
+    }
+  }
+}

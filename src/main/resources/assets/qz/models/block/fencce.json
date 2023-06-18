@@ -1,0 +1,7 @@
+{
+  "parent": "qz:custom/fence_straight",
+  "textures": {
+    "all": "qz:blocks/metal14",
+    "particle": "qz:blocks/metal14"
+  }
+}

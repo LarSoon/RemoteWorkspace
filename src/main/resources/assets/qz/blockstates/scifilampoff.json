@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/scifilampoff"
+    },
+    "facing=east": {
+      "model": "qz:block/scifilampoff",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/scifilampoff",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/scifilampoff",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/tubes_corner",
+  "textures": {
+    "all": "qz:blocks/tubes",
+    "particle": "qz:blocks/tubes",
+    "0": "qz:blocks/tubes"
+  }
+}

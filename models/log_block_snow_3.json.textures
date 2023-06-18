@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "log_base",
+        "1": "log_top",
+        "2": "snow",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

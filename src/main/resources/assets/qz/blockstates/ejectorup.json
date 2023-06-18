@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/ejectorup"
+    },
+    "facing=east": {
+      "model": "qz:block/ejectorup",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/ejectorup",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/ejectorup",
+      "y": 270
+    }
+  }
+}

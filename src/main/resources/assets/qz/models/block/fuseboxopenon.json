@@ -1,0 +1,11 @@
+{
+  "parent": "qz:custom/fusebox_open_on",
+  "textures": {
+    "all": "qz:blocks/fusebox",
+    "particle": "qz:blocks/fusebox",
+    "0": "qz:blocks/fusebox",
+    "1": "qz:blocks/fusebox2",
+    "2": "qz:blocks/indicator_on",
+    "missing": "qz:blocks/"
+  }
+}

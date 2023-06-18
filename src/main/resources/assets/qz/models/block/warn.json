@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/warn_metal",
+    "particle": "qz:blocks/warn_metal"
+  }
+}

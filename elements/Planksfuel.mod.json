@@ -1,0 +1,15 @@
+{
+  "_fv": 43,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:Planksitem"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 2600.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

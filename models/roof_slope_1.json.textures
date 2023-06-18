@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "snow",
+        "1": "metal09snow"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/woodshelf"
+    },
+    "facing=east": {
+      "model": "qz:block/woodshelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/woodshelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/woodshelf",
+      "y": 270
+    }
+  }
+}

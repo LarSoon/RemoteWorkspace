@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wood_pile_face",
+        "1": "wood_pile_top",
+        "3": "metal29"
+      },
+      "name": "default"
+    }
+  }
+}

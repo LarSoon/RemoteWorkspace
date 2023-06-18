@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/plank_door_1",
+  "textures": {
+    "all": "qz:blocks/planks2",
+    "particle": "qz:blocks/planks2",
+    "0": "qz:blocks/planks2"
+  }
+}

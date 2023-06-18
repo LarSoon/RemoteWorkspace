@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/chair",
+  "textures": {
+    "all": "qz:blocks/chair",
+    "particle": "qz:blocks/chair",
+    "1": "qz:blocks/chair",
+    "2": "qz:blocks/scanners"
+  }
+}

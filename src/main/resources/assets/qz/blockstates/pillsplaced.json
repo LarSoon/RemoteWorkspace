@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/pillsplaced"
+    },
+    "facing=east": {
+      "model": "qz:block/pillsplaced",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/pillsplaced",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/pillsplaced",
+      "y": 270
+    }
+  }
+}

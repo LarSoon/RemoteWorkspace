@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/destroyeddroid"
+    },
+    "facing=east": {
+      "model": "qz:block/destroyeddroid",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/destroyeddroid",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/destroyeddroid",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "qz:custom/shkaf",
+  "textures": {
+    "all": "qz:blocks/wood_tex",
+    "particle": "qz:blocks/wood_tex",
+    "0": "qz:blocks/wood_tex",
+    "1": "qz:blocks/jungle_planks",
+    "2": "qz:blocks/shkaf_detail_1",
+    "3": "qz:blocks/shkaf_detail_2"
+  }
+}

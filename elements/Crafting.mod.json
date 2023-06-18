@@ -1,0 +1,155 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 244,
+    "height": 184,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 7,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_armor_lvl_1",
+          "text": "Armor lvl 1",
+          "onClick": {
+            "name": "Armor1"
+          },
+          "width": 80,
+          "height": 20,
+          "x": 96,
+          "y": 36
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_armor_lvl_2",
+          "text": "Armor lvl 2",
+          "onClick": {
+            "name": "Armor2"
+          },
+          "width": 80,
+          "height": 20,
+          "x": 96,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_armor_lvl_3",
+          "text": "Armor lvl 3",
+          "onClick": {
+            "name": "Armor3"
+          },
+          "width": 80,
+          "height": 20,
+          "x": 195,
+          "y": 36
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_armor_lvl_4",
+          "text": "Armor lvl 4",
+          "onClick": {
+            "name": "Armor4"
+          },
+          "width": 80,
+          "height": 20,
+          "x": 195,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_3_cloth_5_metal",
+          "text": {
+            "fixedValue": "3 Cloth, 5 Metal"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 96,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_6_cloth_10_metal",
+          "text": {
+            "fixedValue": "6 Cloth, 10 Metal"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 96,
+          "y": 102
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_11_cloth_27_metal",
+          "text": {
+            "fixedValue": "11 Cloth, 27 Metal"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 195,
+          "y": 58
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_16_cloth_31_metal",
+          "text": {
+            "fixedValue": "16 Cloth, 31 Metal"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 195,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_back",
+          "text": "Back",
+          "onClick": {
+            "name": "Backbutton"
+          },
+          "width": 45,
+          "height": 20,
+          "x": 285,
+          "y": 80
+        }
+      }
+    ],
+    "onTick": {
+      "name": "WorbenchslotsWhileThisGUIIsOpenTick"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

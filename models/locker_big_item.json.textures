@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lockers",
+        "particle": "locker_big"
+      },
+      "name": "default"
+    }
+  }
+}

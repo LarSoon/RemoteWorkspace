@@ -1,0 +1,7 @@
+{
+  "parent": "qz:custom/wiress",
+  "textures": {
+    "0": "qz:blocks/storage_2",
+    "particle": "qz:items/wires"
+  }
+}

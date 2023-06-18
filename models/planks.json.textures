@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks1"
+      },
+      "name": "default"
+    }
+  }
+}

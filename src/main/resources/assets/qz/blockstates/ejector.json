@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/ejector"
+    },
+    "facing=east": {
+      "model": "qz:block/ejector",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/ejector",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/ejector",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/cassete_player",
+  "textures": {
+    "all": "qz:blocks/cassette",
+    "particle": "qz:blocks/cassette",
+    "0": "qz:blocks/cassette"
+  }
+}

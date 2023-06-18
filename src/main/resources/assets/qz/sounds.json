@@ -1,0 +1,704 @@
+{
+  "scan_break": {
+    "sounds": []
+  },
+  "click": {
+    "sounds": []
+  },
+  "cassete_player": {
+    "subtitle": "subtitles.cassete_player",
+    "sounds": [
+      {
+        "name": "qz:mus1",
+        "stream": true
+      },
+      {
+        "name": "qz:mus2",
+        "stream": true
+      },
+      {
+        "name": "qz:mus3",
+        "stream": true
+      },
+      {
+        "name": "qz:mus4",
+        "stream": true
+      },
+      {
+        "name": "qz:mus5",
+        "stream": true
+      },
+      {
+        "name": "qz:mus6",
+        "stream": true
+      },
+      {
+        "name": "qz:mus7",
+        "stream": true
+      },
+      {
+        "name": "qz:mus8",
+        "stream": true
+      },
+      {
+        "name": "qz:mus9",
+        "stream": true
+      },
+      {
+        "name": "qz:mus10",
+        "stream": true
+      },
+      {
+        "name": "qz:mus11",
+        "stream": true
+      },
+      {
+        "name": "qz:mus12",
+        "stream": true
+      },
+      {
+        "name": "qz:mus13",
+        "stream": true
+      },
+      {
+        "name": "qz:mus14",
+        "stream": true
+      },
+      {
+        "name": "qz:mus15",
+        "stream": true
+      },
+      {
+        "name": "qz:mus16",
+        "stream": true
+      },
+      {
+        "name": "qz:mus17",
+        "stream": true
+      },
+      {
+        "name": "qz:mus18",
+        "stream": true
+      },
+      {
+        "name": "qz:mus19",
+        "stream": true
+      },
+      {
+        "name": "qz:mus20",
+        "stream": true
+      },
+      {
+        "name": "qz:mus21",
+        "stream": true
+      },
+      {
+        "name": "qz:mus22",
+        "stream": true
+      },
+      {
+        "name": "qz:mus23",
+        "stream": true
+      },
+      {
+        "name": "qz:mus24",
+        "stream": true
+      },
+      {
+        "name": "qz:mus25",
+        "stream": true
+      },
+      {
+        "name": "qz:mus26",
+        "stream": true
+      },
+      {
+        "name": "qz:mus27",
+        "stream": true
+      },
+      {
+        "name": "qz:mus28",
+        "stream": true
+      },
+      {
+        "name": "qz:mus29",
+        "stream": true
+      },
+      {
+        "name": "qz:mus30",
+        "stream": true
+      },
+      {
+        "name": "qz:mus31",
+        "stream": true
+      },
+      {
+        "name": "qz:mus32",
+        "stream": true
+      },
+      {
+        "name": "qz:mus33",
+        "stream": true
+      },
+      {
+        "name": "qz:mus34",
+        "stream": true
+      },
+      {
+        "name": "qz:mus35",
+        "stream": true
+      },
+      {
+        "name": "qz:mus36",
+        "stream": true
+      },
+      {
+        "name": "qz:mus37",
+        "stream": true
+      },
+      {
+        "name": "qz:mus38",
+        "stream": true
+      },
+      {
+        "name": "qz:mus39",
+        "stream": true
+      }
+    ]
+  },
+  "tumba": {
+    "sounds": [
+      {
+        "name": "qz:tumba",
+        "stream": false
+      }
+    ]
+  },
+  "data": {
+    "sounds": [
+      {
+        "name": "qz:data1",
+        "stream": false
+      },
+      {
+        "name": "qz:data2",
+        "stream": false
+      }
+    ]
+  },
+  "safe_door_open": {
+    "sounds": [
+      {
+        "name": "qz:ironitdoor_open",
+        "stream": false
+      }
+    ]
+  },
+  "safe_door_close": {
+    "sounds": [
+      {
+        "name": "qz:ironitdoor_close",
+        "stream": false
+      }
+    ]
+  },
+  "wooden_door_close": {
+    "sounds": [
+      {
+        "name": "qz:close",
+        "stream": false
+      },
+      {
+        "name": "qz:close2",
+        "stream": false
+      },
+      {
+        "name": "qz:close3",
+        "stream": false
+      },
+      {
+        "name": "qz:close4",
+        "stream": false
+      }
+    ]
+  },
+  "wooden_door_open": {
+    "sounds": [
+      {
+        "name": "qz:open4",
+        "stream": false
+      },
+      {
+        "name": "qz:open3",
+        "stream": false
+      },
+      {
+        "name": "qz:open2",
+        "stream": false
+      },
+      {
+        "name": "qz:open",
+        "stream": false
+      }
+    ]
+  },
+  "cs_door": {
+    "sounds": [
+      {
+        "name": "qz:wood_door_1",
+        "stream": false
+      },
+      {
+        "name": "qz:wood_door_2",
+        "stream": false
+      }
+    ]
+  },
+  "iron_door_1": {
+    "sounds": [
+      {
+        "name": "qz:iron_door_1",
+        "stream": false
+      }
+    ]
+  },
+  "door_stop": {
+    "sounds": [
+      {
+        "name": "qz:door_stop",
+        "stream": false
+      }
+    ]
+  },
+  "pills_use": {
+    "sounds": [
+      {
+        "name": "qz:pills_use",
+        "stream": false
+      }
+    ]
+  },
+  "pills_pickup": {
+    "sounds": [
+      {
+        "name": "qz:pills_pickup",
+        "stream": false
+      }
+    ]
+  },
+  "keys_pickup": {
+    "sounds": [
+      {
+        "name": "qz:keys_pickup",
+        "stream": false
+      }
+    ]
+  },
+  "medkit": {
+    "sounds": [
+      {
+        "name": "qz:medkit",
+        "stream": false
+      }
+    ]
+  },
+  "opens": {
+    "sounds": [
+      {
+        "name": "qz:opens",
+        "stream": false
+      }
+    ]
+  },
+  "none": {
+    "sounds": [
+      {
+        "name": "qz:none",
+        "stream": false
+      }
+    ]
+  },
+  "barrel": {
+    "sounds": [
+      {
+        "name": "qz:barrel",
+        "stream": false
+      }
+    ]
+  },
+  "keys": {
+    "sounds": [
+      {
+        "name": "qz:keys",
+        "stream": false
+      }
+    ]
+  },
+  "keys_sp": {
+    "sounds": [
+      {
+        "name": "qz:keys_sp",
+        "stream": false
+      }
+    ]
+  },
+  "locker_open": {
+    "sounds": [
+      {
+        "name": "qz:lockeropened",
+        "stream": false
+      }
+    ]
+  },
+  "supplyopen": {
+    "sounds": [
+      {
+        "name": "qz:supplyopen",
+        "stream": false
+      }
+    ]
+  },
+  "pickup": {
+    "sounds": [
+      {
+        "name": "qz:pickup",
+        "stream": false
+      }
+    ]
+  },
+  "openejector": {
+    "sounds": [
+      {
+        "name": "qz:opengui",
+        "stream": false
+      }
+    ]
+  },
+  "alert14": {
+    "sounds": [
+      {
+        "name": "qz:alert14",
+        "stream": false
+      }
+    ]
+  },
+  "scaning": {
+    "sounds": [
+      {
+        "name": "qz:scaning",
+        "stream": false
+      }
+    ]
+  },
+  "electro": {
+    "sounds": [
+      {
+        "name": "qz:electro",
+        "stream": false
+      }
+    ]
+  },
+  "metal_equip": {
+    "sounds": [
+      {
+        "name": "qz:metals_2",
+        "stream": false
+      }
+    ]
+  },
+  "ejector_storage": {
+    "sounds": []
+  },
+  "crowbar": {
+    "sounds": [
+      {
+        "name": "qz:crowbar_1",
+        "stream": false
+      },
+      {
+        "name": "qz:crowbar_2",
+        "stream": false
+      }
+    ]
+  },
+  "usb": {
+    "sounds": [
+      {
+        "name": "qz:usb",
+        "stream": false
+      }
+    ]
+  },
+  "pc_usb": {
+    "sounds": [
+      {
+        "name": "qz:pc_usb",
+        "stream": false
+      }
+    ]
+  },
+  "cloth_equip": {
+    "sounds": [
+      {
+        "name": "qz:cloth_equip",
+        "stream": false
+      }
+    ]
+  },
+  "alert2": {
+    "sounds": [
+      {
+        "name": "qz:alert2",
+        "stream": false
+      }
+    ]
+  },
+  "wood": {
+    "sounds": [
+      {
+        "name": "qz:wood1",
+        "stream": false
+      },
+      {
+        "name": "qz:wood2",
+        "stream": false
+      },
+      {
+        "name": "qz:wood3",
+        "stream": false
+      },
+      {
+        "name": "qz:wood4",
+        "stream": false
+      }
+    ]
+  },
+  "geiger": {
+    "sounds": [
+      {
+        "name": "qz:geiger_3",
+        "stream": false
+      },
+      {
+        "name": "qz:geiger_2",
+        "stream": false
+      },
+      {
+        "name": "qz:geiger_1",
+        "stream": false
+      }
+    ]
+  },
+  "spark_1": {
+    "sounds": [
+      {
+        "name": "qz:spark1",
+        "stream": false
+      }
+    ]
+  },
+  "wbidle": {
+    "sounds": [
+      {
+        "name": "qz:wbw1",
+        "stream": false
+      },
+      {
+        "name": "qz:wbw2",
+        "stream": false
+      },
+      {
+        "name": "qz:wbw3",
+        "stream": false
+      },
+      {
+        "name": "qz:wbw4",
+        "stream": false
+      },
+      {
+        "name": "qz:wbw5",
+        "stream": false
+      },
+      {
+        "name": "qz:wbw6",
+        "stream": false
+      },
+      {
+        "name": "qz:wbw7",
+        "stream": false
+      }
+    ]
+  },
+  "craft": {
+    "sounds": [
+      {
+        "name": "qz:craft1",
+        "stream": false
+      },
+      {
+        "name": "qz:craft2",
+        "stream": false
+      }
+    ]
+  },
+  "solids_block_hit": {
+    "sounds": [
+      {
+        "name": "qz:sand_impact_bullet1",
+        "stream": false
+      },
+      {
+        "name": "qz:sand_impact_bullet2",
+        "stream": false
+      },
+      {
+        "name": "qz:sand_impact_bullet3",
+        "stream": false
+      },
+      {
+        "name": "qz:sand_impact_bullet4",
+        "stream": false
+      }
+    ]
+  },
+  "metal_hit": {
+    "sounds": [
+      {
+        "name": "qz:metal_solid_impact_bullet1",
+        "stream": false
+      },
+      {
+        "name": "qz:metal_solid_impact_bullet2",
+        "stream": false
+      },
+      {
+        "name": "qz:metal_solid_impact_bullet3",
+        "stream": false
+      },
+      {
+        "name": "qz:metal_solid_impact_bullet4",
+        "stream": false
+      }
+    ]
+  },
+  "concrete_hit": {
+    "sounds": [
+      {
+        "name": "qz:concrete_impact_bullet1",
+        "stream": false
+      },
+      {
+        "name": "qz:concrete_impact_bullet2",
+        "stream": false
+      },
+      {
+        "name": "qz:concrete_impact_bullet3",
+        "stream": false
+      },
+      {
+        "name": "qz:concrete_impact_bullet4",
+        "stream": false
+      }
+    ]
+  },
+  "glass_hit": {
+    "sounds": [
+      {
+        "name": "qz:glass_impact_bullet1",
+        "stream": false
+      },
+      {
+        "name": "qz:glass_impact_bullet2",
+        "stream": false
+      },
+      {
+        "name": "qz:glass_impact_bullet3",
+        "stream": false
+      },
+      {
+        "name": "qz:glass_impact_bullet4",
+        "stream": false
+      }
+    ]
+  },
+  "locker_close": {
+    "sounds": [
+      {
+        "name": "qz:locker_close",
+        "stream": false
+      }
+    ]
+  },
+  "wb": {
+    "sounds": [
+      {
+        "name": "qz:wb",
+        "stream": false
+      }
+    ]
+  },
+  "unequip": {
+    "sounds": [
+      {
+        "name": "qz:unequip",
+        "stream": false
+      }
+    ]
+  },
+  "duck": {
+    "sounds": [
+      {
+        "name": "qz:duck",
+        "stream": false
+      }
+    ]
+  },
+  "closet": {
+    "sounds": [
+      {
+        "name": "qz:closet",
+        "stream": false
+      }
+    ]
+  },
+  "locekr_closed": {
+    "sounds": [
+      {
+        "name": "qz:lockerclosed",
+        "stream": false
+      }
+    ]
+  },
+  "wall_medkit": {
+    "sounds": [
+      {
+        "name": "qz:wall_medkit",
+        "stream": false
+      }
+    ]
+  },
+  "spawnpoint": {
+    "sounds": [
+      {
+        "name": "qz:spawnpoint",
+        "stream": false
+      }
+    ]
+  },
+  "vent_close": {
+    "sounds": [
+      {
+        "name": "qz:vent_close",
+        "stream": false
+      }
+    ]
+  },
+  "vent_open": {
+    "sounds": [
+      {
+        "name": "qz:vent_open",
+        "stream": false
+      }
+    ]
+  }
+}

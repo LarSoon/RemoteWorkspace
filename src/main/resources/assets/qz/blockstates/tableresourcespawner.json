@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/tableresourcespawner"
+    },
+    "facing=east": {
+      "model": "qz:block/tableresourcespawner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/tableresourcespawner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/tableresourcespawner",
+      "y": 270
+    }
+  }
+}

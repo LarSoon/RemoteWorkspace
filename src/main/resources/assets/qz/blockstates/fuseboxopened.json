@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "qz:block/fuseboxopened"
+    },
+    "facing=east": {
+      "model": "qz:block/fuseboxopened",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "qz:block/fuseboxopened",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "qz:block/fuseboxopened",
+      "y": 270
+    }
+  }
+}

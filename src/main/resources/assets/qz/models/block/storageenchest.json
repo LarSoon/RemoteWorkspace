@@ -1,0 +1,10 @@
+{
+  "parent": "qz:custom/storage",
+  "textures": {
+    "all": "qz:blocks/storage_text",
+    "particle": "qz:blocks/storage_text",
+    "0": "qz:blocks/storage_text",
+    "1": "qz:blocks/storage_2",
+    "missing": "qz:blocks/"
+  }
+}

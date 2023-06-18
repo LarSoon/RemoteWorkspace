@@ -1,0 +1,7 @@
+{
+  "parent": "qz:custom/pills",
+  "textures": {
+    "0": "qz:blocks/pill_bottle",
+    "particle": "qz:items/pills"
+  }
+}

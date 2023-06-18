@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/concrete_wall_1",
+  "textures": {
+    "all": "qz:blocks/concrete00",
+    "particle": "qz:blocks/concrete00",
+    "0": "qz:blocks/concrete00",
+    "1": "qz:blocks/metal13"
+  }
+}

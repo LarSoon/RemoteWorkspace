@@ -1,0 +1,20 @@
+newmtl m_84216c0b-9175-efe8-e3ff-5c84a592797b
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd qz:blocks/spruce_leaves1
+Ns 100.0
+d 1.0
+newmtl m_0e020b46-0dbc-12e0-68c0-3ac6bd6eb53a
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd qz:blocks/spruce_log
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

@@ -1,0 +1,97 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_back",
+          "text": "Back",
+          "onClick": {
+            "name": "Backbutton"
+          },
+          "width": 45,
+          "height": 20,
+          "x": 250,
+          "y": 96
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_scanner",
+          "text": "Scanner",
+          "onClick": {
+            "name": "Scannercraft"
+          },
+          "width": 60,
+          "height": 20,
+          "x": 131,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_scrap_2_circuit_board_3_wires",
+          "text": {
+            "fixedValue": "Scrap 2, Circuit board 3, Wires 8"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 129,
+          "y": 66
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_crowbar",
+          "text": "Crowbar",
+          "onClick": {
+            "name": "Crowbarcraft"
+          },
+          "width": 60,
+          "height": 20,
+          "x": 131,
+          "y": 76
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_scrap_5",
+          "text": {
+            "fixedValue": "Scrap 5"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 131,
+          "y": 97
+        }
+      }
+    ],
+    "onTick": {
+      "name": "WorbenchslotsWhileThisGUIIsOpenTick"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

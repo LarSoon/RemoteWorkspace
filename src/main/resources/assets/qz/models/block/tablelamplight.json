@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/table_lamp_light",
+  "textures": {
+    "all": "qz:blocks/storage_2",
+    "particle": "qz:blocks/storage_2",
+    "1": "qz:blocks/storage_2",
+    "missing": "qz:blocks/"
+  }
+}

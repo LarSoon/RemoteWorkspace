@@ -1,0 +1,12 @@
+{
+  "parent": "qz:custom/workbench_new",
+  "textures": {
+    "all": "qz:blocks/wb_detail_2",
+    "particle": "qz:blocks/wb_detail_2",
+    "5": "qz:blocks/wb_detail_2",
+    "6": "qz:blocks/wb_detail_0",
+    "7": "qz:blocks/wb_detail_1",
+    "8": "qz:blocks/wb_detail_3",
+    "9": "qz:blocks/wb_detail_4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "qz:custom/old_pc",
+  "textures": {
+    "all": "qz:blocks/pc1",
+    "particle": "qz:blocks/pc1",
+    "0": "qz:blocks/pc1",
+    "1": "qz:blocks/pc2",
+    "2": "qz:blocks/pc3",
+    "3": "qz:blocks/pc4",
+    "4": "qz:blocks/pc5",
+    "5": "qz:blocks/pc6",
+    "6": "qz:blocks/pc7",
+    "7": "qz:blocks/pc8",
+    "8": "qz:blocks/pc9"
+  }
+}

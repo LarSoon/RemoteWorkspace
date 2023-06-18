@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/stair_tile_1",
+    "particle": "qz:blocks/stair_tile_1"
+  }
+}

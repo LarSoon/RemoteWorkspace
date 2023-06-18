@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "wood_tex",
+        "2": "old_tv",
+        "3": "old_tv_channel",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

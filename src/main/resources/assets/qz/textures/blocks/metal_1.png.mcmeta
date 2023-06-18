@@ -1,0 +1,10 @@
+{
+   "ctm": {
+     "ctm_version": 1,
+     "type": "CTM",
+     "layer": "SOLID",
+     "textures": [
+         "qz:blocks/metal_1_ctm"
+		]
+	}
+}

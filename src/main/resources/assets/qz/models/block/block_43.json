@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "qz:blocks/jbrocka",
+    "up": "qz:blocks/ikvines",
+    "north": "qz:blocks/ikrockvt3",
+    "east": "qz:blocks/ikrockvt3",
+    "south": "qz:blocks/ikrockvt3",
+    "west": "qz:blocks/ikrockvt3",
+    "particle": "qz:blocks/jbrocka"
+  }
+}

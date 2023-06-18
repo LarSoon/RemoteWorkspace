@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qz:blocks/dots_anim",
+    "particle": "qz:blocks/dots_anim"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "qz:blocks/log_top",
+    "up": "qz:blocks/log_top",
+    "north": "qz:blocks/log_base",
+    "east": "qz:blocks/log_base",
+    "south": "qz:blocks/log_base",
+    "west": "qz:blocks/log_base",
+    "particle": "qz:blocks/log_top"
+  }
+}

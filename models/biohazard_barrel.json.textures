@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "biohazard_up",
+        "1": "biohazard_main",
+        "2": "biohazard",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

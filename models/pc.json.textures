@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "display_anim",
+        "1": "wires",
+        "2": "mouse_keyboard",
+        "3": "pc",
+        "4": "monitor"
+      },
+      "name": "default"
+    },
+    "animited": {
+      "map": {
+        "0": "display_anim",
+        "1": "wires",
+        "2": "mouse_keyboard",
+        "3": "pc",
+        "4": "monitor"
+      },
+      "name": "animited"
+    }
+  }
+}

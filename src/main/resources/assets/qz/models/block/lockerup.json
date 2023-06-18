@@ -1,0 +1,8 @@
+{
+  "parent": "qz:custom/locker_big_up",
+  "textures": {
+    "all": "qz:blocks/lockers",
+    "particle": "qz:blocks/lockers",
+    "1": "qz:blocks/lockers"
+  }
+}

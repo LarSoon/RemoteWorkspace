@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "qz:block/logblockmain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "qz:block/logblockmain"
+    },
+    "axis=z": {
+      "model": "qz:block/logblockmain",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "qz:custom/weapon_crate",
+  "textures": {
+    "all": "qz:blocks/wpn_crate1",
+    "particle": "qz:blocks/wpn_crate1",
+    "3": "qz:blocks/wpn_crate1",
+    "4": "qz:blocks/wpn_crate"
+  }
+}
